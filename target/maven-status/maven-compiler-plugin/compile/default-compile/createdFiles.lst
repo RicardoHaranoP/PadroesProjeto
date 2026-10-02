@@ -1,0 +1,13 @@
+org\yourcompany\yourproject\Facade\Facade.class
+org\yourcompany\yourproject\Singleton.class
+org\yourcompany\yourproject\GoF\SingletonLazy.class
+subsistema2\CepApi.class
+org\yourcompany\yourproject\Strategy\Comportamento.class
+org\yourcompany\yourproject\Strategy\Robo.class
+org\yourcompany\yourproject\GoF\SingletonLazyHolder$Holder.class
+org\yourcompany\yourproject\Strategy\ComportamentoAgressivo.class
+org\yourcompany\yourproject\Strategy\ComportamentoNormal.class
+org\yourcompany\yourproject\GoF\SingletonLazyHolder.class
+subsistema1\CrmService.class
+org\yourcompany\yourproject\GoF\SingletonEager.class
+org\yourcompany\yourproject\Strategy\ComportamentoDefensivo.class
